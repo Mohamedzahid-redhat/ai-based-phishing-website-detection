@@ -1,0 +1,12 @@
+
+pandas
+numpy
+scikit-learn
+ucimlrepo
+requests
+beautifulsoup4
+tldextract
+python-whois
+dnspython
+joblib
+gradio
