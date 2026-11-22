@@ -1,12 +1,12 @@
 
-pandas
-numpy
-scikit-learn
-ucimlrepo
-requests
-beautifulsoup4
-tldextract
+```text
+scikit-learn==1.6.1
+numpy==2.4.6
+pandas==2.2.3
+requests==2.32.4
+beautifulsoup4==4.13.5
 python-whois
-dnspython
-joblib
-gradio
+tldextract==5.4.0
+dnspython==2.9.2
+joblib==1.6.0
+```
